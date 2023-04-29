@@ -1,0 +1,8 @@
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.AssemblyInfo.cs
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.RazorAssemblyInfo.cache
+C:\Users\predator\Desktop\AspNetCore\İntroASP.NET\İntroASP.NET\obj\Debug\net6.0\İntroASP.NET.RazorAssemblyInfo.cs

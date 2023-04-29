@@ -1,0 +1,33 @@
+﻿@model int[]
+
+@{
+	List<string> names = new List<string> { "Novreste", "Gultac", "Lale" };
+	string baseStr = "Welocme";
+}
+
+
+
+@for (int i = 0; i < names.Count; i++)
+{
+	<h1>@baseStr+ @names[i]</h1>
+	
+}
+
+
+<ul>
+
+	@foreach (var item in names)
+	{
+		<li>Naber</li>
+	}
+
+</ul>
+
+
+<p style="color:red">Unuttunmu</p>
+
+<script>
+
+	console.log("This is js")
+
+</script>
